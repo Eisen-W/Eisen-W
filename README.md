@@ -3,7 +3,7 @@
 - Currently studying **Game design** and **3d modelling** <br>
 
 ### **Languages and Tools:** <br>
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev) <br>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python)](https://skillicons.dev) <br>
 [![Tools](https://skillicons.dev/icons?i=blender,ps,pr,figma)](https://skillicons.dev) <br>
 and more
 <!--<img align='right' src="https://wakatime.com/badge/user/7e9ee107-07c5-4dcc-b6ce-a350652e95d5.svg?style=for-the-badge">-->
