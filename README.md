@@ -1,6 +1,7 @@
 # About me
 - College student
-- Currently studying **Game design** and **3d modelling** <br>
+- Currently studying **Game design**
+- Retro technology enthusiast (early 2000s) <br>
 
 ### **Languages and Tools:** <br>
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cs,python)](https://skillicons.dev) <br>
