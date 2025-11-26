@@ -12,7 +12,9 @@ and more
 ## Github Statistics
 <div align=center>
 
-<img src='https://github-readme-stats.vercel.app/api/?username=Eisen-W&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eisen-W&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
+<!--<img src='https://github-readme-stats.vercel.app/api/?username=Eisen-W&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=tokyonight" alt="GitHub Streak" /></a>
+<!--<img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=aura&border_radius=5" width=450> -->| <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eisen-W&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
 |-|-|
 
 </div>
