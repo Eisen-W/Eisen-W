@@ -19,4 +19,4 @@ and more
 deployment paused by owner, try again later-->
 </div>
 
-![stats](./profile-3d-contrib/profile-night-green.svg)
+![stats](./profile-3d-contrib/profile-night-view.svg)
