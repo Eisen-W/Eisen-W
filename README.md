@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me
+- College student
+- Currently studying **Game design**
+- Retro technology enthusiast (early 2000s) <br>
 
-<!--
-**Eisen-W/Eisen-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Languages and Tools:** <br>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev) <br>
+[![Tools](https://skillicons.dev/icons?i=blender,figma,mint)](https://skillicons.dev) <br>
+and more
+<!--<img align='right' src="https://wakatime.com/badge/user/7e9ee107-07c5-4dcc-b6ce-a350652e95d5.svg?style=for-the-badge">-->
+---
+## Github Statistics
+<div align=center>
 
-Here are some ideas to get you started:
+<img src='https://github-readme-stats.vercel.app/api/?username=Eisen-W&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eisen-W&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
+|-|-|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+![stats](./profile-3d-contrib/profile-night-green.svg)
