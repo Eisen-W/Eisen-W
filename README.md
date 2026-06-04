@@ -2,7 +2,7 @@
 - College student
 - Currently studying **Game design**
 - Retro nerd (early 2000s) 
-- Hates CI/CD, SaaS, Cloud <br>
+- Hates CI/CD, Service models, Cloud, and other modern slop <br>
 
 ### **Languages and Tools:** <br>
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev) <br>
