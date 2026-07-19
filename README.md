@@ -1,25 +1,28 @@
+<img align="right" width="10%" src="https://github.com/user-attachments/assets/d643e090-76c3-46e4-b93b-376453e817da" alt="Profile Icon">
+
 # エイゼン
 # About me
+- 21, Male
 - College student
-- Currently studying **Game design**
+- Currently studying **Computer Science & Design**
 - Retro nerd (early 2000s) 
 - Hates CI/CD, Service models, Cloud, and other modern slop <br>
 
 ### **Languages and Tools:** <br>
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev) <br>
-[![Tools](https://skillicons.dev/icons?i=blender,figma,mint)](https://skillicons.dev) <br>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,md)](https://skillicons.dev) <br>
+[![Tools](https://skillicons.dev/icons?i=vscode,blender,figma,mint)](https://skillicons.dev) <br>
 and more
-<!--<img align='right' src="https://wakatime.com/badge/user/7e9ee107-07c5-4dcc-b6ce-a350652e95d5.svg?style=for-the-badge">-->
 ---
 ## Github Statistics
 <div align=center>
+<!-- Stats & streak --->
+<img src="https://streak-stats.demolab.com?user=Eisen-W&theme=sakura-x" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eisen-W&theme=tokyonight" alt="Stats">
 
-<!-- <img src='https://github-readme-stats.vercel.app/api/?username=Eisen-W&theme=aura&show_icons=true&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"> | </div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=tokyonight" alt="GitHub Streak" /></a>
-<img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eisen-W&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
-|-|-|
--->
-| <img src='https://github-readme-stats.vercel.app/api/?username=Eisen-W&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://github-readme-streak-stats-rerun.vercel.app?user=Eisen-W&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eisen-W&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
-|-|-|
-</div>
+<!--- Top Languages & Contribution Chart--->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eisen-W&theme=tokyonight" alt="Top Languages">
+
+---
 
 ![stats](./profile-3d-contrib/profile-night-view.svg)
+</div>
