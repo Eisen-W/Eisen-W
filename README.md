@@ -1,12 +1,13 @@
 # エイゼン
 # About me
 
-<img align="right" width="25%" height="25%" src="https://github.com/user-attachments/assets/d643e090-76c3-46e4-b93b-376453e817da" alt="Profile Icon">
+<img align="right" align="top" width="25%" height="25%" src="https://github.com/user-attachments/assets/d643e090-76c3-46e4-b93b-376453e817da" alt="Profile Icon">
 
 - 21, Male
 - College student
 - Currently studying **Computer Science & Design**
 - Retro nerd (early 2000s) 
+- Pokemon and Nintendo nerd
 - Hates CI/CD, Service models, Cloud, and other modern slop <br>
 
 ### **Languages and Tools:** <br>
