@@ -1,7 +1,7 @@
 # エイゼン
 # About me
 
-<img align="right" width="10%" src="https://github.com/user-attachments/assets/d643e090-76c3-46e4-b93b-376453e817da" alt="Profile Icon">
+<img align="right" width="100%" src="https://github.com/user-attachments/assets/d643e090-76c3-46e4-b93b-376453e817da" alt="Profile Icon">
 
 - 21, Male
 - College student
