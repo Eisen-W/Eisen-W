@@ -17,7 +17,7 @@ and more
 ## Github Statistics
 <div align=center>
 <!-- Stats & streak --->
-<img src="https://streak-stats.demolab.com?user=Eisen-W&theme=sakura-x" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Eisen-W&theme=sakura-x" alt="GitHub Streak" /> <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eisen-W&theme=tokyonight" alt="Stats">
 
 <!--- Top Languages & Contribution Chart--->
