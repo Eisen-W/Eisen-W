@@ -6,6 +6,7 @@
 - 21, Male
 - College student
 - Currently studying **Computer Science & Design**
+- Learning Japanese; can read kana
 - Retro nerd (early 2000s) 
 - Pokemon and Nintendo nerd
 - Hates CI/CD, Service models, Cloud, and other modern slop <br>
