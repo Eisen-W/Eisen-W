@@ -1,18 +1,19 @@
 # エイゼン
 # About me
 
-<img align="right" width="30%" height="30%" src="./Madoka_sticker.png" alt="Profile Icon">
+<img align="right" width="15%" height="15%" src="./Madoka_sticker.png" alt="Profile Icon">
 
 - 21, Male
 - College student
 - Currently studying **Computer Science & Design**
 - Learning Japanese; can read kana
-- Retro nerd (early 2000s)
+- Retro nerd
 
 ### **Languages and Tools:** <br>
 [![Languages](https://skillicons.dev/icons?i=c,cpp,md)](https://skillicons.dev) <br>
 [![Tools](https://skillicons.dev/icons?i=vscode,blender,figma,mint)](https://skillicons.dev) <br>
- and more
+<p>and more</p> 
+
 ---
 ## Github Statistics
 <div align=center>
